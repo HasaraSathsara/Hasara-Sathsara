@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **data visualization, Figma design, Python basics, or front-end integration**
 
-- 📫 How to reach me: **hasarasathsara@gmail.com**
+- 📫 How to reach me: **hasarasathsara5949@gmail.com**
 
 ---
 
