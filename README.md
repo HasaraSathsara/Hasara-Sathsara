@@ -29,7 +29,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/hasarasathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasarasathsara" height="30" width="40" /></a>
   <a href="https://github.com/HasaraSathsara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" /></a>
-  <a href="mailto:hasarasathsara@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="email" height="30" width="40" /></a>
+  <a href="mailto:hasarasathsara5949@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/White/Gmail_white.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 ---
